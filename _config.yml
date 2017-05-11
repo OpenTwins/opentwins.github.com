@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
 
-site:
-  title: 'OpenTwins'
-  description: 'Hello World!'
+theme: jekyll-theme-cayman
