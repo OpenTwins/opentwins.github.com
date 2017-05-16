@@ -47,4 +47,4 @@ In summary, *OpenTwins* promises to be the first global, citizen science-driven 
 You think this is a horrible hidea and want to let us know? You think this is wonderful idea and want to cheer us (or even better help out)? Get in touch!
 
 * We [got a Gitter room](https://gitter.im/OpenTwins/Lobby) if you want to hang out and chat.
-* Don't feel like chatting? Talk to *secretive collaborator* or [Bastian](http://www.ruleofthirds.de) ([twitter](http://www.twitter.com/gedankenstuecke)|[email](mailto:bgreshake@gmail.com)) directly.
+* Don't feel like chatting? Talk to *secretive collaborator* or [Bastian](http://www.ruleofthirds.de) ([twitter](http://www.twitter.com/gedankenstuecke)\|[email](mailto:bgreshake@gmail.com)) directly.
