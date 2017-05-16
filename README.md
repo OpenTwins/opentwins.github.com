@@ -2,9 +2,8 @@
 
 Twin studies have been a valuable method to understand how heritability and the environment shape human traits since their inception in the mid-1920's (doi:10.1007/BF01067795). By comparing monozygotic twin pairs, who share 100% of their genetic information, with dizygotic twin pairs, who share on average 50% of their genetic information, it is possible to model the effects of shared environmental factors as well as of the shared genetic makeup (doi:10.1038/nrg932). Despite the recent advances in genome sequencing and molecular biology technology  twin studies remain a popular and expanding field of research, with the number of studies published per year having nearly doubled over the last 15 years (Figure 1). 
 
-![](null)
-
-**Figure 1**: Increase in Twin Studies according to *Pubmed*. 
+![Figure 1: Increase in Twin Studies according to *Pubmed*.](figures/FigurePubme.png)
+#**Figure 1**: Increase in Twin Studies according to *Pubmed*. 
 
 Additionally, over the last decade, in-vitro fertilisation ​techniques are increasingly used at a global scale (doi:10.1186/s12958-016-0225-2), with the number in the UK alone having more than doubled between 1992 and 2007, according to the *Human Fertilisation and Embryology Authority* in the United Kingdom, and result in approximately 20% of dizygotic twin deliveries (doi:10.1093/humrep/dev319).
 
