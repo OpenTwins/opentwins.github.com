@@ -13,9 +13,8 @@ Here, we propose *OpenTwins*, a community-governed, global platform for facilita
 
 In particular, twins who wish to participate in research can register on the platform pseudonymously, and link themselves to their respective twins (Figure 2). Researchers can register as well and present their research proposals to the twin community, which can give feedback, by voting for or against them. If a research proposal gains enough support of the twin community the researcher gets permission to use the platform and send study details, a survey or a sign-up form to the twin pairs. Through this system it is assured that the complete population of twin pairs is not frequently contacted to participate in sub-standard research and that their email addresses are not shared with the researchers conducting the studies. 
 
-![](null)
-
-**Figure 2: **Interactions within *OpenTwins*** **
+![Figure 2](figures/scheme.png)
+**Figure 2**: Interactions within *OpenTwins*
 
 Apart from facilitating recruitment of participants in ongoing twin studies, OpenTwins offers several additional advantages. First, it opens up twin research for a larger researcher-population, including citizen scientists, or young researchers, who may lack the economic or institutional means to access existing databases. Second, this platform is a democratic model to empower research participants and engage them in the scientific decision-making process.
 
