@@ -1,5 +1,11 @@
 # ***OpenTwins*: a research proposal**
 
+* [Why twins?](why-twins?)
+
+
+## Why twins?
+
+
 Twin studies have been a valuable method to understand how heritability and the environment shape human traits since their inception in the [mid-1920's](http://link.springer.com/article/10.1007/BF01067795). By comparing monozygotic twin pairs, who share 100% of their genetic information, with dizygotic twin pairs, who share on average 50% of their genetic information, it is possible to model the effects of shared environmental factors as well as of the [shared genetic makeup](http://www.nature.com/nrg/journal/v3/n11/full/nrg932.html). Despite the recent advances in genome sequencing and molecular biology technology  twin studies remain a popular and expanding field of research, with the number of studies published per year having nearly doubled over the last 15 years (Figure 1). 
 
 [![Figure 1](figures/FigurePubmed.png)](figures/FigurePubmed.png)
