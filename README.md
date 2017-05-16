@@ -24,3 +24,5 @@ A second milestone is to recruit twin pairs and/or researchers, through online a
 
 In summary, *OpenTwins* promises to be the first global, citizen science-driven twin registry. It will facilitate participant recruitment and by extension research in several domains, like sociology, biology or medicine. Additionally, it will enable citizen scientists or young researchers with minimal resources to contact participants and receive feedback for their planned projects. Last but not least, it will empower research participants by actively engaging them into scientific and ethical decision-making.
 
+## Contact
+We [got a Gitter room](https://gitter.im/OpenTwins/Lobby) if you want to hang out and chat.
