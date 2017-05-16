@@ -1,6 +1,7 @@
 # ***OpenTwins*: a research proposal**
 
-* [Why twins?](why-twins?)
+* [Why twins?](#why-twins)
+* [Milestones](#milestones)
 
 
 ## Why twins?
@@ -23,6 +24,8 @@ In particular, twins who wish to participate in research can register on the pla
 **Figure 2**: Interactions within *OpenTwins*
 
 Apart from facilitating recruitment of participants in ongoing twin studies, OpenTwins offers several additional advantages. First, it opens up twin research for a larger researcher-population, including citizen scientists, or young researchers, who may lack the economic or institutional means to access existing databases. Second, this platform is a democratic model to empower research participants and engage them in the scientific decision-making process.
+
+## Milestones
 
 The first milestone towards implementing *OpenTwins* is to build an online web-service. This will include a database for storing the twins' email addresses and respective twin pairs. In order to protect privacy, no other information will be required. The goal is building and launching a prototype for *OpenTwins* with minimal initial resources, to cover costs for server maintenance and work on the prototype.
 
