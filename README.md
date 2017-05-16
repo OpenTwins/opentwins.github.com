@@ -1,8 +1,8 @@
-***OpenTwins*: research proposal**
+# ***OpenTwins*: a research proposal**
 
 Twin studies have been a valuable method to understand how heritability and the environment shape human traits since their inception in the [mid-1920's](http://link.springer.com/article/10.1007/BF01067795). By comparing monozygotic twin pairs, who share 100% of their genetic information, with dizygotic twin pairs, who share on average 50% of their genetic information, it is possible to model the effects of shared environmental factors as well as of the [shared genetic makeup](http://www.nature.com/nrg/journal/v3/n11/full/nrg932.html). Despite the recent advances in genome sequencing and molecular biology technology  twin studies remain a popular and expanding field of research, with the number of studies published per year having nearly doubled over the last 15 years (Figure 1). 
 
-![Figure 1](figures/FigurePubmed.png)
+[![Figure 1](figures/FigurePubmed.png)](figures/FigurePubmed.png)
 **Figure 1**: Increase in Twin Studies according to *Pubmed*.
 
 Additionally, over the last decade, in-vitro fertilisation ​techniques are increasingly used at a [global scale](https://rbej.biomedcentral.com/articles/10.1186/s12958-016-0225-2), with the number in the UK alone having more than doubled between 1992 and 2007, according to the *Human Fertilisation and Embryology Authority* in the United Kingdom, and result in approximately [20% of dizygotic twin deliveries](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/dev319).
@@ -13,7 +13,7 @@ Here, we propose *OpenTwins*, a community-governed, global platform for facilita
 
 In particular, twins who wish to participate in research can register on the platform pseudonymously, and link themselves to their respective twins (Figure 2). Researchers can register as well and present their research proposals to the twin community, which can give feedback, by voting for or against them. If a research proposal gains enough support of the twin community the researcher gets permission to use the platform and send study details, a survey or a sign-up form to the twin pairs. Through this system it is assured that the complete population of twin pairs is not frequently contacted to participate in sub-standard research and that their email addresses are not shared with the researchers conducting the studies. 
 
-![Figure 2](figures/scheme.png)
+[![Figure 2](figures/scheme.png)](figures/scheme.png)
 **Figure 2**: Interactions within *OpenTwins*
 
 Apart from facilitating recruitment of participants in ongoing twin studies, OpenTwins offers several additional advantages. First, it opens up twin research for a larger researcher-population, including citizen scientists, or young researchers, who may lack the economic or institutional means to access existing databases. Second, this platform is a democratic model to empower research participants and engage them in the scientific decision-making process.
