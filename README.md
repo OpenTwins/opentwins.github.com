@@ -2,6 +2,7 @@
 
 * [Why twins?](#why-twins)
 * [Milestones](#milestones)
+* [Contact](#contact)
 
 
 ## Why twins?
