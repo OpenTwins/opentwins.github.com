@@ -1,5 +1,9 @@
 # ***OpenTwins*: a research proposal**
 
+Thanks so much for your interest in this project! 💖 
+
+The *tl;dr* project description is: We'd love to see an open, participative twin registry that works for academic & citizen scientists alike and want to build one. Below you can read more on the why and how. 
+
 * [Why twins?](#why-twins)
 * [Citizen science](#citizen-science)
 * [Milestones](#milestones)
@@ -37,5 +41,7 @@ A second milestone is to recruit twin pairs and/or researchers, through online a
 In summary, *OpenTwins* promises to be the first global, citizen science-driven twin registry. It will facilitate participant recruitment and by extension research in several domains, like sociology, biology or medicine. Additionally, it will enable citizen scientists or young researchers with minimal resources to contact participants and receive feedback for their planned projects. Last but not least, it will empower research participants by actively engaging them into scientific and ethical decision-making.
 
 ## Contact
+You think this is a horrible hidea and want to let us know? You think this is wonderful idea and want to cheer us (or even better help out)? Get in touch!
+
 * We [got a Gitter room](https://gitter.im/OpenTwins/Lobby) if you want to hang out and chat.
-* Get in touch with the *secretive collaborator* or [Bastian](http://www.ruleofthirds.de) ([twitter](http://www.twitter.com/gedankenstuecke)|[email](mailto:bgreshake@gmail.com))
+* Don't feel like chatting? Talk to *secretive collaborator* or [Bastian](http://www.ruleofthirds.de) ([twitter](http://www.twitter.com/gedankenstuecke)|[email](mailto:bgreshake@gmail.com)) directly.
