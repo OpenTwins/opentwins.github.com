@@ -17,7 +17,7 @@ The *tl;dr* project description is: We'd love to see an open, participative twin
 Twin studies have been a valuable method to understand how heritability and the environment shape human traits since their inception in the [mid-1920's](http://link.springer.com/article/10.1007/BF01067795). By comparing monozygotic twin pairs, who share 100% of their genetic information, with dizygotic twin pairs, who share on average 50% of their genetic information, it is possible to model the effects of shared environmental factors as well as of the [shared genetic makeup](http://www.nature.com/nrg/journal/v3/n11/full/nrg932.html). Despite the recent advances in genome sequencing and molecular biology technology  twin studies remain a popular and expanding field of research, with the number of studies published per year having nearly doubled over the last 15 years (Figure 1). 
 
 [![Figure 1](figures/FigurePubmed.png)](figures/FigurePubmed.png)
-**Figure 1**: Increase in Twin Studies according to *Pubmed*.
+**Figure 1**: Increase in Twin Studies according to *Pubmed*. (Data is in [`data/twin_studies_in_pubmed.csv`](data/twin_studies_in_pubmed.csv).
 
 Additionally, over the last decade, in-vitro fertilisation ​techniques are increasingly used at a [global scale](https://rbej.biomedcentral.com/articles/10.1186/s12958-016-0225-2), with the number in the UK alone having more than doubled between 1992 and 2007, according to the *Human Fertilisation and Embryology Authority* in the United Kingdom, and result in approximately [20% of dizygotic twin deliveries](https://academic.oup.com/humrep/article-lookup/doi/10.1093/humrep/dev319).
 
